@@ -32,25 +32,6 @@ A complete Web3 gaming decentralized application (dApp) built for the Monad test
 - MetaMask wallet
 - Monad testnet setup
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Akayosan/Scuttle-dApp.git
-   cd Scuttle-dApp
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open your browser and visit `http://localhost:5000`
 
 ### Monad Testnet Configuration
 
@@ -87,84 +68,11 @@ Add Monad testnet to MetaMask:
 - **90-day Pool**: Medium-term staking with better rewards
 - **180-day Pool**: Long-term staking for maximum returns
 
-## 🏗️ Project Structure
-
-```
-Scuttle-dApp/
-├── client/                 # Frontend React app
-│   ├── src/
-│   │   ├── components/     # UI components
-│   │   ├── hooks/          # Custom React hooks
-│   │   ├── lib/            # Utilities and configuration
-│   │   └── pages/          # Page components
-├── server/                 # Backend Express server
-├── shared/                 # Shared types and schemas
-└── package.json
-```
-
-## 🌟 Key Components
-
-- **`use-web3.tsx`**: Web3 connection and wallet management
-- **`use-contracts.tsx`**: Smart contract interactions
-- **`nft-minting.tsx`**: NFT minting interface
-- **`tap-to-earn.tsx`**: Game mechanics component
-- **`staking-interface.tsx`**: Token staking functionality
-- **`wallet-connection.tsx`**: Wallet connection UI
-
-## 🚀 Deployment
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-### Deploy to Vercel
-
-1. Connect your GitHub repository to Vercel
-2. Set build command: `npm run build`
-3. Set output directory: `dist`
-4. Deploy!
-
-### Deploy to VPS
-
-1. Build the project: `npm run build`
-2. Upload to your VPS
-3. Install dependencies: `npm install`
-4. Start the server: `npm start`
-
-## 🎨 Design
-
-Beautiful purple-themed design with:
-- Gradient backgrounds
-- Glowing effects
-- Responsive layout
-- Smooth animations
-- Modern UI components
-
-## 🔐 Security
-
-- Real blockchain transactions
-- Secure wallet integration
-- No private key storage
-- Client-side transaction signing
-
-## 📄 License
-
-MIT License - see LICENSE file for details.
-
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📞 Support
 
 For support and questions:
-- Email: sarostoken@gmail.com
+- Email: bluebrinds@gmail.com
+- Discord : akayosan
 - GitHub Issues: [Create an issue](https://github.com/Akayosan/Scuttle-dApp/issues)
 
 ## 🌟 Acknowledgments
