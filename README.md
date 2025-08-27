@@ -26,9 +26,7 @@ A complete Web3 gaming decentralized application (dApp) built for the Monad test
 
 ## 🚀 Quick Start
 
-### Prerequisites
 
-- Node.js (v18+)
 - MetaMask wallet
 - Monad testnet setup
 
