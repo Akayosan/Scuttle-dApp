@@ -1,6 +1,6 @@
 # Scuttle NFT Gaming dApp
 
-A complete Web3 gaming decentralized application (dApp) built for the Monad testnet. Features NFT minting, tap-to-earn gaming mechanics, and STL token staking.
+A complete Web3 gaming decentralized application (dApp) built for Community. Features NFT minting, tap-to-earn gaming mechanics, and STL token staking.
 
 ## ✨ Features
 
